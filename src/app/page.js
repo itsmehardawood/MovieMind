@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <div className="min-h-screen w-full  bg-gray-900 text-white p-6">
       <h1
-        className="text-5xl font-extrabold text-center mb-6 
+        className="text-5xl font-extrabold text-center my-6 
                bg-gradient-to-r from-blue-500 via-purple-500 to-indigo-600 
                text-transparent bg-clip-text flicker"
       >
